@@ -1,5 +1,7 @@
-document.getElementById("btn_al").addEventListener("click", alerta());
+/*
 
-function alerta() {
-  alert("Has presionado el botón");
-}
+document.addEventListener("DOMContentLoaded", function() {
+  alert("Bienvenido a Travel Oasis");
+});
+
+*/
